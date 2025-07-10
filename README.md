@@ -5,7 +5,8 @@
 
 </br>
 
-[truechat screenshot](truechat/v1/truechat_v1_screenshot.png)
+[Screenshot](truechat/v1/truechat_v1_screenshot.png) [Video](https://www.dropbox.com/scl/fi/3z57ezu2a7te7zk4e52mo/True-Chat-Software.mp4?rlkey=pjln76qcfz3ucsd4b1rafmvfs&st=520e5v2i&dl=0)
+
 
 </br>
 
@@ -24,9 +25,5 @@ Features (V1):
   + Automatic guest login after opening server link
   + Optimized for desktop as well as mobile devices
   + Dynamic user list that shows who is currently active
-
-</br>
-
-[Link to video](https://www.dropbox.com/scl/fi/3z57ezu2a7te7zk4e52mo/True-Chat-Software.mp4?rlkey=pjln76qcfz3ucsd4b1rafmvfs&st=520e5v2i&dl=0)
 
 </br></br>
